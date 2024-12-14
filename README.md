@@ -5,8 +5,8 @@ I'm a student, with a strong interest in competitive programming, machine learni
 [![](https://visitcount.itsvg.in/api?id=nayiarmiharbi&icon=10&color=13)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raiyan.ibrahim.9404) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raiyan-ibrahim) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/raiyan..9404) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raiyan-) 
 [![Codeforces](https://img.shields.io/badge/Codeforces-%234B6B87.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/miharbinayiar)
 
 
