@@ -54,6 +54,7 @@ I'm a student, with a strong interest in competitive programming, machine learni
   <img src="https://github-readme-stats.vercel.app/api?username=nayiarmiharbi&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"  alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayiarmiharbi&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"  alt="Summary" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayiarmiharbi&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"  alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=nayiarmiharbi&bg_color=transparent&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 
 
