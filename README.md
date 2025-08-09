@@ -1,4 +1,4 @@
-# 👋 miharbinayiar
+# 👋 RaiyanIbrahim
 
 I'm a student, with a strong interest in competitive programming, machine learning, and web development.
 
